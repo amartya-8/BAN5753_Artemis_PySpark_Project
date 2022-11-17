@@ -19,9 +19,9 @@ The goal is to predict if the client will subscribe a term deposit using classif
 
 ## Dataset Overview:
 
-Attributes information:
-1 - Age (Numeric)
-2 - Job: type of job (categorical)
+*Attributes information*:
+1. Age (Numeric)
+2. Job: type of job (categorical)
 3 - Marital: marital status (categorical)
 4 - Education (categorical)
 5 - Default: has credit in default? (categorical)
