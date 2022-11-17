@@ -15,6 +15,7 @@ The goal is to predict if the client will subscribe a term deposit using classif
 
 ## Logistic Regression Model File: [Click Here](https://github.com/amartya-8/BAN5753_Artemis_PySpark_Project/blob/main/lr_model.zip) 
 
+## Presentation: [Click Here](https://github.com/amartya-8/BAN5753_Artemis_PySpark_Project/blob/main/BAN%205753%20-%20Mini%20Project%202%20Atemis.pptx)
 
 
 
