@@ -33,12 +33,14 @@ The goal is to predict if the client will subscribe a term deposit using classif
 11. Duration: last contact duration, in seconds (numeric)
 
 *Other attributes*:
+
 12. Campaign: number of contacts performed during this campaign and for this client (numeric, includes last contact)
 13. Pdays: number of days that passed by after the client was last contacted from a previous campaign (numeric; 999 means client was not previously contacted)
 14. Previous: number of contacts performed before this campaign and for this client (numeric)
 15. Poutcome: outcome of the previous marketing campaign (categorical)
 
 *Social and economic context attributes*:
+
 16. Emp.var.rate: employment variation rate - quarterly indicator (numeric)
 17. Cons.price.idx: consumer price index - monthly indicator (numeric) 
 18. Cons.conf.idx: consumer confidence index - monthly indicator (numeric) 
@@ -46,5 +48,6 @@ The goal is to predict if the client will subscribe a term deposit using classif
 20. Nr.employed: number of employees - quarterly indicator (numeric)
 
 *Target variable*:
+
 21. y - has the client subscribed a term deposit? (binary: 'yes','no')
 
